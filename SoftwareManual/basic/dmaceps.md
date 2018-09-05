@@ -27,7 +27,7 @@ Output from the lines above:
 
       1.11022e-16
 
-**Implementation/Code:** The following is the code for maceps()
+**Implementation/Code:** The following is the code for dmaceps()
 
     double dmaceps() {
 	    double num = 1.0;
