@@ -1,5 +1,5 @@
 #include <math.h>
-#include <iostream>
+#include "mylib.h"
 #include <complex>
 
 using namespace std;
@@ -20,11 +20,4 @@ complex<double>* quadpoly(double a, double b, double c) {
 	}
 
 	return roots;
-}
-
-int main() {
-	complex<double>* temp = quadpoly(1, 0, 2);
-	cout << temp[0].real() << "+" <<temp[0].imag() << "i" << endl;
-	cout << temp[1].real() << temp[1].imag() << "i" << endl;
-	return 0;
 }
