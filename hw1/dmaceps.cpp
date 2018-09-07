@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "mylib.h"
 
 double dmaceps() {
 	double num = 1.0;
@@ -8,9 +6,4 @@ double dmaceps() {
 		num /= 2;
 	}
 	return num;
-}
-
-int main() {
-	cout << dmaceps();
-	return 0;
 }
