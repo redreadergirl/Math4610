@@ -2,7 +2,7 @@
 
 * [Problem 1 - Single Precision](maceps.cpp)
 * [Problem 1 - Double Precision](dmaceps.cpp)
-* [Problem 2](SoftwareManual/tableofcontent.md)
+* [Problem 2](../SoftwareManual/tableofcontent.md)
 * [Problem 3](prob3)
 * [Problem 4](hw1_prob4.PNG)
 * [Problem 5](prob5.pdf)
