@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "mylib.h"
 
 float maceps() {
 	float num = 1;
@@ -8,9 +6,4 @@ float maceps() {
 		num /= 2;
 	}
 	return num;
-}
-
-int main() {
-	cout << maceps();
-	return 0;
 }
