@@ -1,4 +1,4 @@
 # Table Of Contents
 
-* [Basic Functions](basicfunctions.md)
+* [Basic Functions](basic.md)
 * [Appendix](appendix.md)
