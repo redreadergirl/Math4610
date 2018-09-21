@@ -47,7 +47,7 @@ Output from the lines above:
     Relative Error = 3e-6
 
 
-**Functions for evaluating f(x):**
+**Functions for evaluating f(x) and f'(x):**
 [sinpix()](../resources/sinpix.cpp)
 [sinpixPrime()](../resources/sinpixprime.cpp)
 [xsqrd()](../resources/xsqrd.cpp)
