@@ -52,5 +52,5 @@ Output from the lines above:
 
 
 **Functions for evaluating f(x):**
-[sinpix()](resources/sinpix.cpp)
-[xsqrd()](resources/xsqrd.cpp)
+[sinpix()](../resources/sinpix.cpp)
+[xsqrd()](../resources/xsqrd.cpp)
