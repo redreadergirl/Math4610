@@ -25,7 +25,7 @@ Output from the lines above:
 **Implementation/Code:** The following is the code for newton()
 
     double newton(double x, double(*fOfX) (double), double(*fPrime)(double)) {
-	    int iterations = 100;
+	    int iterations = 10;
 	    double temp;
 	    while (iterations-- > 0) {
 		    temp = x - (fOfX(x) / fPrime(x));
