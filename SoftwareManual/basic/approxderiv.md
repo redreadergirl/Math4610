@@ -31,4 +31,4 @@ Output from the lines above:
     
 **Evaluation of Results:**
 
-I ran the code on several different equations. Each continued to get better until about the 20th iteration. After the first 5 or so iterations the function was barely improving by anything. Here are the graphs of the results of [5x^3 + sin(x)](../hw2/graph1.png) and [3x^2](../hw2/graph2.png)
+I ran the code on several different equations. Each continued to get better until about the 20th iteration. After the first 5 or so iterations the function was barely improving by anything. Here are the graphs of the results of [5x^3 + sin(x)](../../hw2/graph1.png) and [3x^2](../../hw2/graph2.png)
