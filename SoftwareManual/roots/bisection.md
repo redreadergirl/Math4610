@@ -17,8 +17,6 @@
 **Usage/Example:**
 
         bisection(0.6, 1.8, sinpix)
-        This will find a root of the equation f(x)=sin(pi*x)
-        The function sinpix is located [here](/resources/sinpix.md)
        
 Output from the lines above:
 
@@ -51,3 +49,8 @@ Output from the lines above:
     f(x) = sin(pi * x) produced 0.998437 as a root after 8 iterations.
     Absolute Error = 0.001563
     Relative Error = 0.001563
+
+
+**Functions for evaluating f(x):**
+[sinpix()](resources/sinpix.md)
+[xsqrd()](resources/xsqrd.md)
