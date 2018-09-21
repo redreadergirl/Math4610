@@ -23,6 +23,7 @@ Output from the lines above:
 **Implementation/Code:** The following is the code for siniter()
 
     double siniter(double x0) {
+    	    const double pi = 3.1415926535897;
 	    int i = 20;
 	    double temp;
 	    double x = x0;
