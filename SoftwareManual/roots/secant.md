@@ -25,7 +25,7 @@ Output from the lines above:
 **Implementation/Code:** The following is the code for secant()
 
     double secant(double x0, double x1, double(*fOfX)(double)) {
-	    int iterations = 100;
+	    int iterations = 10;
 	    double xkm1 = x0;
 	    double xk = x1;
 	    double fxk = fOfX(xk);
@@ -49,7 +49,7 @@ Output from the lines above:
     f(x) = x^2 - 3 produced 1.73214 as a root after 3 iterations.
     Absolute Error = 8.91924e-5
     Relative Error = 5.14953e-5
-    f(x) = sin(pi * x) produced 0.999949 as a root after 8 iterations.
+    f(x) = sin(pi * x) produced 0.999949 as a root after 3 iterations.
     Absolute Error = 5.1e-5
     Relative Error = 5.1e-5
 
