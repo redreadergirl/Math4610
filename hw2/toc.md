@@ -6,7 +6,7 @@
 * [Problem 2 - Graph 1](graph1.png)
 * [Problem 2 - Graph 2](graph2.png)
 * [Problem 3](prob3.txt)
-* [Problem 4 - a](../SoftwareManual/roots/xsqrditer.md)
+* [Problem 4 - a](../SoftwareManual/roots/xiter.md)
 * [Problem 4 - b](../SoftwareManual/roots/siniter.md)
 * [Problem 5](../SoftwareManual/roots/bisection.md)
 * [Problem 6](../SoftwareManual/roots/newton.md)
