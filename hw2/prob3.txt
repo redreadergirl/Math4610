@@ -1,0 +1,6 @@
+a. The equation for the approximate derivative and the conjugate equation converged after about 20 iterations.
+When h < 3.55271e-15 the approximate derivative equation started to change. By h < 1.11022e-16 it was saying the root was 0.
+The conjugate equation remained constant after it converged.
+
+b. Both the equation for the approximate derivative and the Taylor series expansion converged and then started get farther from the correct root.
+The Taylor series expansion never got as close to the root as the approximate derivative equation.
