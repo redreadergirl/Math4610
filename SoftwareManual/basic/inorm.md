@@ -11,7 +11,7 @@
         e = the vector to compute the norm of
         length = the size of the vector
         
-**Output:** The function will output the one norm as a double
+**Output:** The function will output the infinity norm as a double
 
 **Usage/Example:**
 
