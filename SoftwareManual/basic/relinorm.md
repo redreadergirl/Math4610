@@ -37,4 +37,4 @@ Output from the lines above:
     }
     
 **Link to relerr:**
-  [relerr()](../resources/relerr.md)
+  [relerr()](relerr.md)
