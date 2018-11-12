@@ -7,7 +7,7 @@
 * [Problem 4](hw1_prob4.PNG)
 * [Problem 5](prob5.pdf)
 * [Problem 6](prob6.pdf)
-* [Problem 7](quadpoly.cpp)
+* [Problem 7](../SoftwareManual/basic/quadpoly.md)
 * [Problem 8](prob8.pdf)
 * [Problem 9](prob9.md)
 * [Problem 10 - Graph A](prob10_partA.png)
