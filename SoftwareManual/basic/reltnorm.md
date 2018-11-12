@@ -25,7 +25,7 @@ Output from the lines above:
   
 **Implementation/Code:** The following is the code for reltnorm()
 
-  double reltnorm(vector<double> x, vector<double> y, int xLength, int yLength) {
+    double reltnorm(vector<double> x, vector<double> y, int xLength, int yLength) {
 	  if (xLength != yLength) {
 		  throw exception();
 	  }
@@ -34,7 +34,7 @@ Output from the lines above:
 		  error.push_back(relerr(x[i], y[i]));
 	  }
 	  return tnorm(error, xLength);
-  }
+    }
     
 **Link to relerr:**
   [relerr()](relerr.md)
