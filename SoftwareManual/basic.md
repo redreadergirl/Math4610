@@ -1,5 +1,18 @@
 ## Basic Functions
 
+* [Absolute Error](basic/abserr.md)
+* [Infinity Norm of Absolute Error](basic/absinorm.md)
+* [One Norm of Absolute Error](basic/absonorm.md)
+* [Two Norm of Absolute Error](basic/abstnorm.md)
+* [Approximate Derivative of a Function](basic/approxderiv.md)
 * [Machine Epsilon Double Precision](basic/dmaceps.md)
 * [Machine Epsilon Single Precision](basic/maceps.md)
+* [Infinity Norm](basic/inorm.md)
+* [One Norm](basic/onorm.md)
+* [Two Norm](basic/tnorm.md)
 * [Roots of Quadratic Polynomial](basic/quadpoly.md)
+* [Relative Error](basic/relerr.md)
+* [Infinity Norm of Relative Error](basic/relinorm.md)
+* [One Norm of Relative Error](basic/relonorm.md)
+* [Two Norm of Relative Error](basic/reltnorm.md)
+
