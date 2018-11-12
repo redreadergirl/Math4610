@@ -8,21 +8,21 @@
 
 **Input:**
 
-	A = vector of vector of doubles
+	A = the matrix as a vector of vectors of doubles
 	
 **Output:** The function will output the infinity norm as a double
 
 **Usage/Example:**
 
-	matrixInfNorm({ {1, 2, 3}, {8, 4, 7}, {2, 1, 5} })
+	matrixinorm({ {1, 2, 3}, {8, 4, 7}, {2, 1, 5} })
 
 Output from the lines above:
 
 	19
     
-**Implementation/Code:** The following is the code for matrixInfNorm()
+**Implementation/Code:** The following is the code for matrixinorm()
 
-    double matrixInfNorm(vector<vector<double>> A) {
+    double matrixinorm(vector<vector<double>> A) {
 	    double max = 0;
 	    for (int i = 0; i < A.size(); i++) {
 		    double sum = 0;
