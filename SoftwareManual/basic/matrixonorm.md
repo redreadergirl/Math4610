@@ -14,7 +14,7 @@
 
 **Usage/Example:**
 
-	matrixOneNorm({ {1, 2, 3}, {8, 4, 7}, {2, 1, 5} })
+	matrixonorm({ {1, 2, 3}, {8, 4, 7}, {2, 1, 5} })
 
 Output from the lines above:
 
