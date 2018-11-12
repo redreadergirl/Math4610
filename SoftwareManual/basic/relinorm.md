@@ -17,7 +17,7 @@
 
 **Usage/Example:**
 
-        
+        relinorm({6, 5, 4}, {5, 3, 1}, 3, 3)
        
 Output from the lines above:
 
