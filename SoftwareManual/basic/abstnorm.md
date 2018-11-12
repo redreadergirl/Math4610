@@ -25,7 +25,7 @@ Output from the lines above:
   
 **Implementation/Code:** The following is the code for abstnorm()
 
-  double abstnorm(vector<double> x, vector<double> y, int xLength, int yLength) {
+    double abstnorm(vector<double> x, vector<double> y, int xLength, int yLength) {
 	  if (xLength != yLength) {
 		  throw exception();
 	  }
@@ -34,7 +34,7 @@ Output from the lines above:
 		  error.push_back(abserr(x[i], y[i]));
 	  }
 	  return tnorm(error, xLength);
-  }
+    }
     
 **Link to abserr:**
   [abserr()](abserr.md)
