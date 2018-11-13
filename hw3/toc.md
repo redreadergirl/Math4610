@@ -16,7 +16,7 @@
 * [Problem 3 - e](../SoftwareManual/matrix/crossproduct.md)
 * [Problem 4 - Matrix Forbenius Norm](../SoftwareManual/basic/frobenius.md)
 * [Problem 4 - Matrix One Norm](../SoftwareManual/basic/matrixonorm.md)
-* [Problem 4 - Matrix Infinity Norm](../SoftwareManual/basic/mateixinorm.md)
+* [Problem 4 - Matrix Infinity Norm](../SoftwareManual/basic/matrixinorm.md)
 * [Problem 5 - a](../SoftwareManual/matrix/matrixaddition.md)
 * [Problem 5 - b](../SoftwareManual/matrix/matrixsubtraction.md)
 * [Problem 5 - c](../SoftwareManual/matrix/matrixtranspose.md)
