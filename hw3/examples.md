@@ -1,6 +1,6 @@
 ## Concurrent Computing Examples:
 
-**Matrix multiplied by vector:**
+**Matrix multiplied by matrix:**
 
 Input:
 
@@ -10,7 +10,7 @@ Output:
 
     {{39, -2}, {85, 12}}
     
-**Matrix multiplied by matrix:**
+**Matrix multiplied by vector:**
 
 Input:
 
