@@ -4,7 +4,7 @@
 using namespace std;
 
 vector<double> mvomp(vector<vector<double>> matrix, vector<double> vec) {
-	vector<double> product;
+	vector<double> product(vec.size(), 0);
 	int i;
 #pragma omp parallel shared(matrix, vec, product) private(i)
 	{
