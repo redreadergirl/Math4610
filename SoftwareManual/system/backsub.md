@@ -19,7 +19,7 @@
        
 Output from the lines above:
 
-        {2, .777778, -4.11111}
+        {-4.11111, .777778, 2}
   
 **Implementation/Code:** The following is the code for backSub()
 
@@ -30,11 +30,11 @@ Output from the lines above:
 		    double sum = 0;
 		    for (int j = b.size() - 1; j >= i; j--) {
 			    if (j != i) {
-				    sum += A[i][j] * x[b.size() - 1 - j];
+				    sum += A[i][j] * x[j];
 			    }
 			    else {
 				    double xVal = (b[i] - sum) / A[i][j];
-				    x.push_back(xVal);
+				    x[i] = xVal;
 			    }
 		    }
 	    }
