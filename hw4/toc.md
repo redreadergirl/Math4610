@@ -1,7 +1,7 @@
 # Homework 4
 
 * [Problem 1](../SoftwareManual/system/gaussianelim.md)
-* [Problem 2](../SoftwareManual/system/rectelim.md)
+* [Problem 2](../SoftwareManual/system/rectgauss.md)
 * [Problem 3](../SoftwareManual/system/forwardsub.md)
 * [Problem 4](../SoftwareManual/system/backsub.md)
 * [Problem 5](../SoftwareManual/system/gaussiansolution.md)
