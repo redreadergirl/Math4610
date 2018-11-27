@@ -8,7 +8,7 @@
 
 **Input:** 
         
-        A = upper triangular matrix
+        A = a matrix
         b = the vector b in Ax=b
 
 **Output:** The function will output the solution as a vector of doubles
