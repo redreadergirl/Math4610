@@ -13,4 +13,5 @@
 * [Problem 9](../SoftwareManual/system/conjugategradientomp.md)
 * [Problem 10 - CPU Time Comparison Graph](timecomparison.png)
 * [Problem 10 - Iteration Comparison Graph](iterationcomparison.png)
+* [Problem 10 - Comparison Table](chart.PNG)
 * [Problem 10 - Comparison Write Up](writeup.txt)
