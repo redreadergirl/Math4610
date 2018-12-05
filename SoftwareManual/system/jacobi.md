@@ -9,14 +9,14 @@
 **Input:**
 
 	A = the matrix formed from the system of equations
-  b = the vector b from Ax = b
+	b = the vector b from Ax = b
 	
 **Output:** The function will output the x vector as a vector of doubles
 
 **Usage/Example:**
 
 	vector<vector<double>> matrix = testMatrix(3);
-  jacobi(matrix, testVector(vector));
+	jacobi(matrix, testVector(vector));
 
 Output from the lines above:
 
