@@ -11,3 +11,5 @@ got larger OMP still tended to be faster but there were a few exceptions dependi
 
 Overall it seems that the most efficient method is Conjugate Gradient Method with the least efficient
 being Jacobi method.
+
+For the 320x320 and 640x640 matrices, the Jacobi method took too long to evaluate.
