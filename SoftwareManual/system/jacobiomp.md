@@ -16,13 +16,13 @@
 **Usage/Example:**
 
 	vector<vector<double>> matrix = testMatrix(3);
-  jacobi(matrix, testVector(vector));
+  jacobiOMP(matrix, testVector(vector));
 
 Output from the lines above:
 
 	{1.00002, 1.00002, 1.00002}
     
-**Implementation/Code:** The following is the code for jacobi()
+**Implementation/Code:** The following is the code for jacobiOMP()
 
     vector<double> jacobi(vector<vector<double>> A, vector<double> b) {
 	    vector<double> x(A.size(), 0);
