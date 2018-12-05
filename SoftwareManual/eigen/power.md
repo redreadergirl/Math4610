@@ -14,8 +14,8 @@
 
 **Usage/Example:**
 
-	    matrix = testMatrix(3)  (returned: {{1.835, .835, .969}, {.835, 1.835, .308}, {.969, .308, 1.969}})
-      power(matrix)
+    matrix = testMatrix(3)  (returned: {{1.835, .835, .969}, {.835, 1.835, .308}, {.969, .308, 1.969}})
+    power(matrix)
 
 Output from the lines above:
 
