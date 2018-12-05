@@ -1,0 +1,4 @@
+Conjugate Gradient Method requires the fewest iterations. Jacobi requires the most iterations. Gauss-Seidel requires less iterations than Steepest Descent when the size of the matrix is smaller but more iterations when the size is larger.
+Conjugate Gradient is takes the shortest amount of CPU time. Then Gauss-Seidel, followed by Steepest Gradient. Jacobi takes the longest time.
+Using OMP on the methods did not change the amount of iterations but it did change the CPU time. For smaller sized matrices OMP worked faster than regular version of the same method. As matrices got larger OMP still tended to be faster but there were a few exceptions depending on the generated matrix.
+Overall it seems that the most efficient method is Conjugate Gradient Method with the least efficient being Jacobi method.
