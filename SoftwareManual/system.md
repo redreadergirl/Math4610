@@ -1,0 +1,18 @@
+# Solving a System of Linear Equations
+
+* [Back Substitution](system/backsub.md)
+* [Cholesky Decomposition](system/cholesky.md)
+* [Solve a System Using Cholesky](system/choleskysolution.md)
+* [Conjugate Gradient Method](system/conjugategradient.md)
+* [Conjugate Gradient Method OMP](system/conjugategradientomp.md)
+* [Forward Substitution](system/forwardsub.md)
+* [Gaussian Elimination](system/gaussianelim.md)
+* [Solve a System Using Gaussian Elimination](system/gaussiansolution.md)
+* [Gauss-Seidel](system/gaussseidel.md)
+* [Gauss-Seidel OMP](system/gaussseidelomp.md)
+* [Jacobi Iteration](system/jacobi.md)
+* [Jacobi Iteration OMP](system/jacobiomp.md)
+* [LU Factorization](system/lufactorization.md)
+* [Solve a System Using LU Factorization](system/lusolution.md)
+* [Gaussian Elimination on a Rectangular Matrix](system/rectgauss.md)
+* [Steepest Descent Method](system/steepestdescent.md)
