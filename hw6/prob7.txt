@@ -1,0 +1,3 @@
+The OpenMP routine runs faster than the regular routine, especially as the matrix gets large. 
+When the matrix is small they take about the same amount of time to run. The larger the matrix
+is, the bigger the difference in execution time between the two routines.
