@@ -5,4 +5,4 @@
 * [Matrix Arithmancy](matrix.md)
 * [Solving A System of Linear Equations](system.md)
 * [Calculating Eigenvalues](eigen.md)
-* [Appendix](appendix.md)
+* [Testing](test.md)
