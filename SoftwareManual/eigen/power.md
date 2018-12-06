@@ -37,7 +37,7 @@ Output from the lines above:
 		    vector<double> y = u;
 		    u = scalarVector(u, 1 / tnorm(u, u.size()));
 		    double lambda = vecTransposeVec(u, y);
-		    error = abs(lambda - lambdaMax);
+		    error = fabs(lambda - lambdaMax);
 		    lambdaMax = lambda;
 		    v = u;
 	    }
