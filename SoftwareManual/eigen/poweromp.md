@@ -23,7 +23,7 @@ Output from the lines above:
     
 **Implementation/Code:** The following is the code for powerOMP()
 
-    double power(vector<vector<double>> matrix) {
+    double powerOMP(vector<vector<double>> matrix) {
 	    vector<double> v(matrix.size(), 1);
 	    double tol = .001;
 	    int maxiter = 50;
