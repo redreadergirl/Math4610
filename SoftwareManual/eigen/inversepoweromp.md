@@ -23,7 +23,7 @@ Output from the lines above:
     
 **Implementation/Code:** The following is the code for inversePowerOMP()
 
-    double inversePower(vector<vector<double>> matrix) {
+    double inversePowerOMP(vector<vector<double>> matrix) {
 	    vector<double> v(matrix.size(), 1);
 	    v = scalarVector(v, 1 / tnorm(v, v.size()));
 	    int maxiter = 750;
