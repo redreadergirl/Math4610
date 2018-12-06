@@ -15,4 +15,6 @@
 * [Infinity Norm of Relative Error](basic/relinorm.md)
 * [One Norm of Relative Error](basic/relonorm.md)
 * [Two Norm of Relative Error](basic/reltnorm.md)
+* [One Norm of a Matrix](basic/matrixonorm.md)
+* [Infinity Norm of a Matrix](basic/matrixinorm.md)
 
