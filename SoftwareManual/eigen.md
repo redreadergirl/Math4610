@@ -1,4 +1,4 @@
-# Root Finding
+# Calculating Eigenvalues
 
 * [2-Condition Number](eigen/conditionnumber.md)
 * [2-Condition Number OMP](eigen/conditionnumberomp.md)
